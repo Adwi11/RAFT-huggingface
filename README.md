@@ -1,4 +1,4 @@
-# RAFT : (Adapting Language Model to Domain Specific RAG) for Hugging face Mistral7b model
+# RAFT : (Adapting Language Model to Domain Specific RAG) for Hugging face Mistral-7b-instruct model
 
  RAFT accomplishes this by citing verbatim the right sequence from the relevant document that would help answer the question. This coupled with RAFT’s chain-of-thought-style response helps improve the model’s ability to reason. In domain specific RAG, RAFT consistently improves the model’s performance across PubMed, HotpotQA, and Gorilla datasets, presenting a post-training recipe to improve pre-trained LLMs to in-domain RAG. RAFT’s code and demo are open sourced at :
 
